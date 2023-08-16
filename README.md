@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Minhas redes abaixo não posto muito mas, vamos lá =D
+  ### Minhas redes 😁.
  
 <div> 
   
