@@ -2,10 +2,10 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Executa todo dia à meia-noite
+    - cron: '0 0 * * *'  # Executa todo dia à meia-noite
   push:
     branches:
-      - main  
+      - main  # Executa toda vez que houver um push no branch principal
 
 jobs:
   generate-snake:
@@ -22,3 +22,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit files to repository
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'github-actions@github.com'
+          message: 'Atualizar animação da cobra'
+          add: 'dist/*'
