@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina, e, apesar de ainda estar aprendendo, já tem me proporcionado uma grande evolução na minha carreira
+Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina e python por conta do trabalho, apesar de ainda estar aprendendo, já tem me proporcionado uma grande evolução na minha carreira
 
 ---
 
@@ -36,5 +36,6 @@ Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina, e, a
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
+
 
 ---
