@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina e python por conta do trabalho, apesar de ainda estar aprendendo, já tem me proporcionado uma grande evolução na minha carreira
+Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina e **Python** por conta do trabalho, apesar de ainda estar aprendendo, já tem me proporcionado uma grande evolução na minha carreira
 
 ---
 
@@ -13,7 +13,7 @@ Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina e pyt
 
 ---
 
-### 🚀 Minhas Redes
+### 🚀 Minhas Redes 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://instagram.com/MWismecke" target="_blank">
@@ -29,7 +29,7 @@ Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina e pyt
 
 ---
 
-### 🐍 🐍 🐍
+###  👢🐍 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
