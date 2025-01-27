@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina e **Python** por conta do trabalho, apesar de ainda estar aprendendo, já tem me proporcionado uma grande evolução na minha carreira
+Estou me aprofundando no mundo do **Golang**, uma linguagem que me fascina assim como **Javascript** e **Python** por conta do trabalho, apesar de ainda estar aprendendo, já tem me proporcionado uma grande evolução na minha carreira
 
 ---
 
